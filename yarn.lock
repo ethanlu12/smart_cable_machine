@@ -4031,24 +4031,24 @@ expo-constants@~15.4.0, expo-constants@~15.4.3:
   dependencies:
     "@expo/config" "~8.5.0"
 
-expo-dev-client@~3.3.8:
-  version "3.3.8"
-  resolved "https://registry.npmjs.org/expo-dev-client/-/expo-dev-client-3.3.8.tgz"
-  integrity sha512-6JpcxncWiWwq1w6SPrePpTa20z3D1qmAMMHd8f05lSCUPVBn4jTwpzrKEpGaA3EubLE5SEdxPVmvmyWw/oFFMQ==
+expo-dev-client@~3.3.11:
+  version "3.3.11"
+  resolved "https://registry.yarnpkg.com/expo-dev-client/-/expo-dev-client-3.3.11.tgz#f2541ccbcfc2ba32bcea47293bc9beae4e10db60"
+  integrity sha512-9nhhbfbskfmjp/tlRS5KvDpCoW0BREJBxpu2GyjKu7nDB33W8fJLL0wXgNhP+QEb93r37o3uezKmUm2kibOvTw==
   dependencies:
-    expo-dev-launcher "3.6.6"
-    expo-dev-menu "4.5.5"
+    expo-dev-launcher "3.6.9"
+    expo-dev-menu "4.5.8"
     expo-dev-menu-interface "1.7.2"
     expo-manifests "~0.13.0"
     expo-updates-interface "~0.15.1"
 
-expo-dev-launcher@3.6.6:
-  version "3.6.6"
-  resolved "https://registry.npmjs.org/expo-dev-launcher/-/expo-dev-launcher-3.6.6.tgz"
-  integrity sha512-jVI1YZS1YJTrniIL53BOxSZUMyJCeDLuS9SlRx1vC3tnTTN3srg5pU/zCK/DifwbF7i6NtA1iLPSBVu2K4040A==
+expo-dev-launcher@3.6.9:
+  version "3.6.9"
+  resolved "https://registry.yarnpkg.com/expo-dev-launcher/-/expo-dev-launcher-3.6.9.tgz#5e104e0533a46f3614c1691673da3351092e8d1d"
+  integrity sha512-MBDMAqjCMVYt1Zv47u2dJTp4d8gCZMfM4GWAFhfQy3G6XzkUlFtewaQefAqy93FcYOv6BYdC9yZOLOb06tqTfA==
   dependencies:
     ajv "8.11.0"
-    expo-dev-menu "4.5.5"
+    expo-dev-menu "4.5.8"
     expo-manifests "~0.13.0"
     resolve-from "^5.0.0"
     semver "^7.5.3"
@@ -4058,10 +4058,10 @@ expo-dev-menu-interface@1.7.2:
   resolved "https://registry.npmjs.org/expo-dev-menu-interface/-/expo-dev-menu-interface-1.7.2.tgz"
   integrity sha512-V/geSB9rW0IPTR+d7E5CcvkV0uVUCE7SMHZqE/J0/dH06Wo8AahB16fimXeh5/hTL2Qztq8CQ41xpFUBoA9TEw==
 
-expo-dev-menu@4.5.5:
-  version "4.5.5"
-  resolved "https://registry.npmjs.org/expo-dev-menu/-/expo-dev-menu-4.5.5.tgz"
-  integrity sha512-PcbI/SqAvueOIEtR1O0s+WvVD7yizQSqXisDSkBrTym3u8XZSN+K730kz2Z64ukY9YIPG4qWR4sd+9rcjsbMWw==
+expo-dev-menu@4.5.8:
+  version "4.5.8"
+  resolved "https://registry.yarnpkg.com/expo-dev-menu/-/expo-dev-menu-4.5.8.tgz#21940385124c7d2745066bbcb42185ebd35f66bc"
+  integrity sha512-GXfI0CmYlqjOqyFjtplXO9PSoJQoy89+50lbUSNZykDsGyvzCPzl4txdQcdHHSglKYr7lWV7aeMVeehuSct60w==
   dependencies:
     expo-dev-menu-interface "1.7.2"
     semver "^7.5.3"
@@ -7011,10 +7011,10 @@ react-native-sound@^0.11.2:
   resolved "https://registry.yarnpkg.com/react-native-sound/-/react-native-sound-0.11.2.tgz#e542dc5b9e16ab4b3ac7e6eaddb1fc8d98da9038"
   integrity sha512-LmGc8lgOK3qecYMVQpyHvww/C+wgT6sWeMpVbOe4NCRGC2yKd4fo4U0KBUo9PO7AqKESO3I/2GZg1/C0+bwiiA==
 
-react-native-track-player@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-track-player/-/react-native-track-player-4.0.1.tgz#df80c27290db610f92dc73d89ecae8e354acb28d"
-  integrity sha512-DpqKL4TQS0kGlHwEtmMrL++mdgWb+uc75eQiP3vfYSlgvAJjbXbkL9h+cofndSuq4TTCp8jclAK+hZKqtMw6+A==
+react-native-track-player@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-track-player/-/react-native-track-player-4.1.1.tgz#96f8688f270c5a01bc597b6331843b191402502b"
+  integrity sha512-E5N/eK/+HtAVJUAzXpm1cWz8ROheV9jb0TI6h2bM+333U+DWibTTnT2T1122FkCoXLXIYavtm2FR2if+5jH8cA==
 
 react-native-web@~0.19.6:
   version "0.19.10"
